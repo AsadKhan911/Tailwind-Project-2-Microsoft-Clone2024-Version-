@@ -5,10 +5,10 @@ Welcome to my 2024 Microsoft Clone project, a responsive and visually faithful r
 ## Screenshots
 
 ### Web Version
-![Web Version](screenshots/web.png)
+![Web Version](web-ss.png)
 
 ### Mobile Version
-![Mobile Version](screenshots/mobile.png)
+![Mobile Version](mobile-ss.png)
 
 ## Overview
 
